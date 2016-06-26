@@ -18,5 +18,6 @@
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
     <dimen name="size_big_72">72dp</dimen>
+    <dimen name="size_line">2dp</dimen>
 
 </resources>
