@@ -251,8 +251,8 @@
                 <EditText
                     style="@style/edit"
                     android:hint="@string/hint_github"
-                    android:inputType="textImeMultiLine"
-                    android:text="@string/text_github" />/>
+                    android:inputType="textMultiLine"
+                    android:text="@string/text_github" />
             </android.support.design.widget.TextInputLayout>
 
         </LinearLayout>
@@ -300,7 +300,7 @@
                     style="@style/edit"
                     android:inputType="textMultiLine"
                     android:hint="@string/hint_about_me"
-                    android:text="@string/text_about_me" />/>
+                    android:text="@string/text_about_me" />
             </android.support.design.widget.TextInputLayout>
 
         </LinearLayout>
